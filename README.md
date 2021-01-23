@@ -1,4 +1,4 @@
-# CG-ESCOM
+# Computer Graphics - ESCOM
 
 Practices for the Computer Graphics course at ESCOM made by Alejandro Colin Varela
 
