@@ -13,7 +13,7 @@ int main(int argc, char const *argv[])
     // Here are some examples on how to use the "Colin3DLibrary.h"!
     // Uncomment the example you want to test, comment the others and run the program
 
-    // example_1(): // Animation made by rotating the monkey and using different rendering techniches
+       example_1(); // Animation made by rotating the monkey and using different rendering techniches
     // example_2(); // Four Monkeys on the center using Phong
     // example_3(); // A cube made out of Six patches lined up together (animation of the cube rotating)
     // example_4(); // Animation of the cube of patches scaling the tangents 
@@ -58,7 +58,6 @@ void example_1()
         fullhd.clear();
         mono.transformar(t);
     }
-    return 0;
 }
 void example_2()
 {
