@@ -1,16 +1,14 @@
-# The Colin3DLibrary! 
+## The Colin3DLibrary! 
+---
+Hi! This is a really inefficient 3D Library written in C++ , you can use it to render .obj and save it to a ppm. You might be thinking "ppm? what an inefficient image format, that's just used for education propouses" and yup! you got to the point. Colin3DLibrary is an education-propouse 3D library, I made it while taking the Computer Graphics class at my University (ESCOM).
 
-Hi! This is a really inefficient 3D Library written in C++ , you can use it to render .obj and save it to a ppm. Here you might be thinking "ppm? what an inefficient image format, that's just used for education propouses" and yup! you got to the point. Colin3DLibrary is an education-propouse 3D library, I made it while taking the Computer Graphics class at my University (ESCOM).
+I put together all my practices to make the library. I haven't documented the whole thing, for now there are some examples on "Examples.cpp" on how to use the library, you'll need the "Monkey.obj" included to run some of the examples. The actual library is "Colin3DLibrary.h".
 
-While I was making my practices for class, I was putting them together to make them into a 3D library, and this is the result. I haven't documented the whole thing, for now there are some examples on "Examples.cpp" on how to use the library, you'll need the "Monkey.obj" included to run some of the examples. The actual library is on "Colin3DLibrary.h".
-
-Also, there are a lot of functions that are not being used on the examples so checking the source code is adviced. Actually that's the whole thing, you might learn something reading that or maybe not, or maybe you'll contact me and I'll learn something who knows. As I already said, it is an inefficient library, using only the CPU to render the image, using vectors and things like that. But in the end it works and I sure learned stuff while making it.
+There are a lot of functions that are not being used on the examples so checking the source code is adviced. Actually that's the whole thing, you might learn something reading that or maybe not, or maybe you'll contact me and I'll learn something, who knows. It is an inefficient library, using only the CPU to render the image. But in the end it works and I learned stuff while making it.
 
 For any more questions or comments you can reach me here on Github or on my Twitter @venado_cosmico
-Enjoy!
-
-
-
-Here is the animation that the first example renders (actually the program only outputs the frames, I glued them together and added the text on a video editor.
+Enjoy! ✨
+---
+Here is the animation that the first example renders (actually the program only outputs the frames, I glued them together and added the text on a video editor)
 
 https://user-images.githubusercontent.com/42361534/166129503-4b7f9bc4-4d5e-43c4-ad4b-273b2c97129f.mp4
