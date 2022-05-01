@@ -1,12 +1,16 @@
-# Computer Graphics - ESCOM
+# The Colin3DLibrary! 
 
-Practices for the Computer Graphics course at ESCOM made by Alejandro Colin Varela
+Hi! This is a really inefficient 3D Library written in C++ , you can use it to render .obj and save it to a ppm. Here you might be thinking "ppm? what an inefficient image format, that's just used for education propouses" and yup! you got to the point. Colin3DLibrary is an education-propouse 3D library, I made it while taking the Computer Graphics class at my University (ESCOM).
 
-The practices are all on a library called "Colin3DLibrary" Named like that for obvious reasons.
-I added really few examples on how to use it to create a ppm image, they are on the Examples.cpp. I added the Monkey.obj that one example uses.
-You have to open and uncomment the example you want to run. Also there are a lot of functions that are not being used on the examples so checking the source code is adviced.
+While I was making my practices for class, I was putting them together to make them into a 3D library, and this is the result. I haven't documented the whole thing, for now there are some examples on "Examples.cpp" on how to use the library, you'll need the "Monkey.obj" included to run some of the examples. The actual library is on "Colin3DLibrary.h".
 
-For any more questions you can reach me here on Github or on my Twitter @venado_cosmico
+Also, there are a lot of functions that are not being used on the examples so checking the source code is adviced. Actually that's the whole thing, you might learn something reading that or maybe not, or maybe you'll contact me and I'll learn something who knows. As I already said, it is an inefficient library, using only the CPU to render the image, using vectors and things like that. But in the end it works and I sure learned stuff while making it.
+
+For any more questions or comments you can reach me here on Github or on my Twitter @venado_cosmico
 Enjoy!
+
+
+
+Here is the animation that the first example renders (actually the program only outputs the frames, I glued them together and added the text on a video editor.
 
 https://user-images.githubusercontent.com/42361534/166129503-4b7f9bc4-4d5e-43c4-ad4b-273b2c97129f.mp4
